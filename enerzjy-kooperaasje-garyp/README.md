@@ -2,7 +2,7 @@
 
 ## Logo
 
-![Enerzjy Koöperaasje Garyp Logo](ekgaryp-1000x_.svg)
+![Enerzjy Koöperaasje Garyp Logo](enerzjy-kooperaasje-garyp-1000x_.svg)
 
 ## Colors
 
