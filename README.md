@@ -8,6 +8,7 @@ Enerzjy Koöperaasje Garyp brand resources.
 - [Icons](#icons)
 - [Colors](#colors)
 - [Fonts](#fonts)
+- [Links](#links)
 
 ## Logos
 
@@ -84,3 +85,7 @@ _Source:_ [mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf](mixed/Nieuwsbrief_Ge
 ## Fonts
 
 - https://nl.wikipedia.org/wiki/Calibri
+
+## Links
+
+- https://www.alfredlehmann.nl/
