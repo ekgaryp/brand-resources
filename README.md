@@ -7,6 +7,7 @@ Enerzjy Koöperaasje Garyp brand resources.
 - [Logos](#logos)
 - [Icons](#icons)
 - [Colors](#colors)
+- [Photos](#photos)
 - [Fonts](#fonts)
 - [Links](#links)
 
@@ -81,6 +82,10 @@ _Source:_ [mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf](mixed/Nieuwsbrief_Ge
 - https://www.colorbook.io/hexcolors/view/c9c2e5
 
 _Source:_ [mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf](mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf)
+
+## Photos
+
+![Enerzjy Koöperaasje Garyp Management 2022](photos/photo-enerzjy-kooperaasje-garyp-management-2022.jpeg)
 
 ## Fonts
 
