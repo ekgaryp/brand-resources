@@ -37,7 +37,6 @@ Enerzjy Koöperaasje Garyp brand resources.
 
 _Source:_ [mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf](mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf)
 
-
 ### Enerzjy Koöperaasje Garyp Blau
 
 ![Enerzjy Koöperaasje Garyp Blau](color-cards/color-card-28358f.png)
@@ -50,6 +49,22 @@ _Source:_ [mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf](mixed/Nieuwsbrief_Ge
 #### Links
 
 - https://www.colorbook.io/hexcolors/view/28358f
+
+_Source:_ [mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf](mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf)
+
+
+### Enerzjy Koöperaasje Garyp Ljocht Blau
+
+![Enerzjy Koöperaasje Garyp Ljocht Blau](color-cards/color-card-c9c2e5.png)
+
+| Type | Value |
+| ---- | ----- |
+| RGB | `201, 194, 229` |
+| HEX/HTML | `C9C2E5` |
+
+#### Links
+
+- https://www.colorbook.io/hexcolors/view/c9c2e5
 
 _Source:_ [mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf](mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf)
 
