@@ -29,17 +29,17 @@ Enerzjy Koöperaasje Garyp brand resources.
 
 ![Gemeente Tytsjerksteradiel Logo](gemeente-tytsjerksteradiel/gemeente-tytsjerksteradiel-1000x_.svg)
 
+### It Enerzjyhûs Logo
+
+_Vector image of this logo is missing._
+
+![It Enerzjyhûs Logo](mixed/enerzjyhus_Tekengebied-1.jpg)
+
 ## Icons
 
 ### Enerzjy Koöperaasje Garyp Icon
 
 ![Enerzjy Koöperaasje Garyp Icon](enerzjy-kooperaasje-garyp/enerzjy-kooperaasje-garyp-icon-1000x1000.svg)
-
-### It Enerzjyhûs Logo
-
-_Vector image of this logo is missing._
-
-![It Enerzjyhûs Logo](mixed/Logo-It-Enerzjyhus.webp)
 
 ## Colors
 
