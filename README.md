@@ -19,3 +19,7 @@ Enerzjy Koöperaasje Garyp brand resources.
 ### Gemeente Tytsjerksteradiel
 
 ![Gemeente Tytsjerksteradiel Logo](gemeente-tytsjerksteradiel/gemeente-tytsjerksteradiel-1000x_.svg)
+
+## Fonts
+
+- https://nl.wikipedia.org/wiki/Calibri
