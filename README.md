@@ -35,6 +35,12 @@ Enerzjy Koöperaasje Garyp brand resources.
 
 ![Enerzjy Koöperaasje Garyp Icon](enerzjy-kooperaasje-garyp/enerzjy-kooperaasje-garyp-icon-1000x1000.svg)
 
+### It Enerzjyhûs Logo
+
+_Vector image of this logo is missing._
+
+![It Enerzjyhûs Logo](mixed/Logo-It-Enerzjyhus.webp)
+
 ## Colors
 
 ### Enerzjy Koöperaasje Garyp Grien
