@@ -2,6 +2,13 @@
 
 Enerzjy Koöperaasje Garyp brand resources.
 
+## Table of contents
+
+- [Logos](#logos)
+- [Icons](#icons)
+- [Colors](#colors)
+- [Fonts](#fonts)
+
 ## Logos
 
 ### Enerzjy Koöperaasje Garyp Logo
