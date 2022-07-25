@@ -4,21 +4,27 @@ Enerzjy Koöperaasje Garyp brand resources.
 
 ## Logos
 
-### Enerzjy Koöperaasje Garyp
+### Enerzjy Koöperaasje Garyp Logo
 
 ![Enerzjy Koöperaasje Garyp Logo](enerzjy-kooperaasje-garyp/enerzjy-kooperaasje-garyp-1000x_.svg)
 
-### Aardgasvrij Garyp
+### Aardgasvrij Garyp Logo
 
 ![Aardgasvrij Garyp Logo](aardgasvrij-garyp/aardgasvrij-garyp-1000x_.svg)
 
-### Postkoaderoas Krite Garyp
+### Postkoaderoas Krite Garyp Logo
 
 ![Postkoaderoas Krite Garyp Logo](postkoaderoas-krite-garyp/postkoaderoas-krite-garyp-1000x_.svg)
 
-### Gemeente Tytsjerksteradiel
+### Gemeente Tytsjerksteradiel Logo
 
 ![Gemeente Tytsjerksteradiel Logo](gemeente-tytsjerksteradiel/gemeente-tytsjerksteradiel-1000x_.svg)
+
+## Icons
+
+### Enerzjy Koöperaasje Garyp Icon
+
+![Enerzjy Koöperaasje Garyp Icon](enerzjy-kooperaasje-garyp/enerzjy-kooperaasje-garyp-icon-1000x1000.svg)
 
 ## Colors
 
