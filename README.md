@@ -100,3 +100,5 @@ _Source:_ [mixed/Nieuwsbrief_GemTyts_AVGGaryp_Jan-2022.pdf](mixed/Nieuwsbrief_Ge
 ## Links
 
 - https://www.alfredlehmann.nl/
+- https://onzehuisstijl.nl/
+- https://twitter.com/onzehuisstijl
